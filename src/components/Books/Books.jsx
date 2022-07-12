@@ -15,7 +15,7 @@ const Books = () => {
 
   return (
     <div>
-      <h1>Books</h1>
+      <h1>Books2</h1>
       <AddBook/>
       <Book />
     </div>
